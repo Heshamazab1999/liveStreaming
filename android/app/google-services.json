@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838419154919",
+    "project_id": "agora-b4a99",
+    "storage_bucket": "agora-b4a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838419154919:android:ddb3b38f21bedd878edf42",
+        "android_client_info": {
+          "package_name": "com.example.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838419154919-r99vodl05b3cj71feen1m2s79515rh6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUiJ7-Lkt5yFjJoB5Xjse5ta8BqJb0QaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838419154919-r99vodl05b3cj71feen1m2s79515rh6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
